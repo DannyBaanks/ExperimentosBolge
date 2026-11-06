@@ -1,10 +1,15 @@
-# EXPERIMENTOSBÖLGE
+# EXPERIMENTOSBÖLGE v2.0 😲
+
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/DannyBaanks/EXPERIMENTOSBOLGE)
+[![Research](https://img.shields.io/badge/research-OpenAI%20Composes%20%26%20ISyCo-orange.svg)]()
 
 Repositorio de experimentos reproducibles sobre Malbolge.
 
 EXPERIMENTOSBÖLGE reúne hipótesis, implementaciones, pruebas, resultados y evidencia de experimentos derivados de briefs y composes de investigación. La intención es que cada resultado pueda inspeccionarse, repetirse y reutilizarse desde otros repositorios del ecosistema ISyCo.
 
 La **Ö** es simplemente parte del nombre visual del proyecto.
+
+Parte de la **Suite Experimental de Frontera v2.0** del ecosistema Malbolge de ISyCo.
 
 ---
 
